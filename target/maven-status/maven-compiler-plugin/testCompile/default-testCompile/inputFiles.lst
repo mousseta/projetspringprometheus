@@ -1,0 +1,6 @@
+/mnt/c/calculator/src/test/java/com/medianet/calculator/CalculatorApplicationTests.java
+/mnt/c/calculator/src/test/java/com/medianet/calculator/CalculatorControllerTest.java
+/mnt/c/calculator/src/test/java/com/medianet/calculator/CalculatorTest.java
+/mnt/c/calculator/src/test/java/com/medianet/calculator/acceptance/CalculatorAcceptanceTest.java
+/mnt/c/calculator/src/test/java/com/medianet/calculator/integration/CalculatorIntegrationTest.java
+/mnt/c/calculator/src/test/java/com/medianet/calculator/steps/CalculatorStepDefinitions.java

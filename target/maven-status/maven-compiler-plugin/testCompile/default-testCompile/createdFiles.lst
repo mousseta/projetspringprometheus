@@ -1,0 +1,6 @@
+com/medianet/calculator/CalculatorTest.class
+com/medianet/calculator/CalculatorApplicationTests.class
+com/medianet/calculator/acceptance/CalculatorAcceptanceTest.class
+com/medianet/calculator/steps/CalculatorStepDefinitions.class
+com/medianet/calculator/integration/CalculatorIntegrationTest.class
+com/medianet/calculator/CalculatorControllerTest.class
