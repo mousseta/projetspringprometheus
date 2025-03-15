@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: spring-boot-app
-          image: 192.168.49.2:5000/springboot:latest
+          image: 192.168.49.2:5000/app
           resources:  # ⚠️ Indentation correcte
             requests:
               cpu: "100m"
